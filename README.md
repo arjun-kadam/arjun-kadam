@@ -6,4 +6,4 @@
 </p>
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=arjun-kadam&color=green)
+![](https://komarev.com/ghpvc/?username=arjun-kadam&color=blueviolet)
