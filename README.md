@@ -72,7 +72,7 @@
 </a>
 </p>
 
-<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+<h2 align="center">My GitHub Stats 📶</h2>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arjun-kadam&theme=dracula&show_icons=true" alt="arjun kadam" width="400" />
