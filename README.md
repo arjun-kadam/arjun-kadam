@@ -1,7 +1,6 @@
 <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arjun-kadam&linkedin=visual-arjun&twitter=visual_arjun47"/>
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=arjun-kadam&color=blueviolet)
+<p align="center"> <img src="https://github.com/arjun-kadam/arjun-kadam/blob/output/github-contribution-grid-snake.svg" width="1080" /> </p>
  
  <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
