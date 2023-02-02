@@ -1,9 +1,84 @@
- 👋 Hi, I’m Arjun Kadam
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/visual_arjun47" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="" height="40" width="40" /></a>
-<a href="http://linkedin.com/in/visual-arjun" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
-</p>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arjun-kadam&linkedin=visual-arjun&twitter=visual_arjun47"/>
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=arjun-kadam&color=blueviolet)
+ 
+ <h2 align="center">My Tech Stack 🧰</h2>
+<p align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a> 
+ 
+<a href="">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg"  />
+</a>
+<a href="">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/misc/cloud.svg">
+</a>
+ <a href="">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/aws.svg">
+</a>
+<a href="">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/azure.svg">
+</a>
+<a href="">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/kubernetes.svg">
+</a>
+ <a href="">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg">
+</a>
+</p>
+
+
+<h2 align="center">My Tools :gear: </h2>
+<p align="center">
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+ <a href="">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/devices/pc.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+
+<h2 align="center">My Socials :handshake: </h2>
+<p align="center">
+<a href="https://twitter.com/visual_arjun47">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://linkedin.com/in/visual-arjun">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://instagram.com/visual_arjun47">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+<a href="mailto:arjunkadama29@gmail.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arjun-kadam&theme=dracula&show_icons=true" alt="arjun kadam" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=arjun-kadam&theme=dracula&hide_border=false" alt ="Arjun Kadam" width="400" />
+</p>
+
+
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
