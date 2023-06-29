@@ -1,10 +1,10 @@
  <h1 align="center">👉Arjun Kadam👈</h1>
 
-🧠2+ Years of Experience in programming and software devlopment🧑‍💻. I am Final Year student of BE Computer Engineering🎓.You can see my detailes on [Linkedin profile](https://linkedin.com/in/visual_arjun) 🤩
+🧠2+ Years of Experience in programming and software development🧑‍💻. I am Final Year student of BE Computer Engineering🎓.You can see my details on [Linkedin profile](https://linkedin.com/in/visual_arjun) 🤩
 
-Also, I have experince in cloud technologies like AWS and Azure☁️. I am very passionate about DevOps and Open Source💼. <br>
+Also, I have experience in cloud technologies like AWS and Azure☁️. I am very passionate about DevOps and Open Source💼. <br>
 
-I am always welcoming new challenges💪, this keeps me motivate and energetic🔥. Also, quickly adopting new things📖.
+I always welcoming new challenges💪, this keeps me motivate and energetic🔥. Also, quickly adopting new things📖.
 <hr></hr>
 
 # Personal Projects💫
