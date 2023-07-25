@@ -48,4 +48,4 @@ This project is done for college assignment. In that I have designed Flower Shop
 </p>
 
 <h3 align="center">Thank You For Visiting My Profile :pray:</h3>
-<p align="center"> <img src="https://github.com/arjun-kadam/arjun-kadam/blob/output/github-contribution-grid-snake.svg" width="1080" /> </p>
+<!-- <p align="center"> <img src="https://github.com/arjun-kadam/arjun-kadam/blob/output/github-contribution-grid-snake.svg" width="1080" /> </p> -->
