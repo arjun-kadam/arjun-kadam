@@ -8,19 +8,22 @@ I always welcoming new challenges💪, this keeps me motivate and energetic🔥.
 <hr></hr>
 
 # Personal Projects💫
-<h2>PAA Scraper</h2>
-This can Scrap all questions and Answers From Google Search
+<h2>NerdCoin</h2>
+Simple Blockchain implementation in Java. Allows users to create wallets. Provides wallets with public and private keys using Elliptic-Curve cryptography. Secures the transfer of funds, by using a digital signature algorithm to prove ownership.
 
-[arjun-kadam/PAA-Scrapper](https://github.com/arjun-kadam/PAA-Scraper)
+[arjun-kadam/NerdCoin](https://github.com/arjun-kadam/NerdCoin)
+
+<h2>DocsGPT</h2>
+BE Final Year Project. User can upload PDF and interact with PDF like chatbot. Project is developed using Next.js. Used OpenAI for LLM. 
+
+[arjun-kadam/WT-Project](https://github.com/arjun-kadam/DocsGPT)
+
 <h2>Plant Monitoring System Using IoT</h2>
 The aim of this project is to automate agriculture using IoT. In this project we used different type of sensors for collecting data from Agriculture.
 
 [arjun-kadam/plant-monitoring-system-using-iot](https://github.com/arjun-kadam/plant-monitoring-system-using-iot)
 
-<h2>DesiPhools</h2>
-This project is done for college assignment. In that I have designed Flower Shopping Website Using HTML & CSS. 
 
-[arjun-kadam/WT-Project](https://github.com/arjun-kadam/WT-Project)
 
 <hr></hr>
 
@@ -31,9 +34,6 @@ This project is done for college assignment. In that I have designed Flower Shop
 </a>
 <a href="https://linkedin.com/in/visual-arjun">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://instagram.com/visual_arjun47">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
 <a href="mailto:arjunkadama29@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
