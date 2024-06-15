@@ -16,7 +16,7 @@ Simple Blockchain implementation in Java. Allows users to create wallets. Provid
 <h2>DocsGPT</h2>
 BE Final Year Project. User can upload PDF and interact with PDF like chatbot. Project is developed using Next.js. Used OpenAI for LLM. 
 
-[arjun-kadam/WT-Project](https://github.com/arjun-kadam/DocsGPT)
+[arjun-kadam/DocsGPT](https://github.com/arjun-kadam/DocsGPT)
 
 <h2>Plant Monitoring System Using IoT</h2>
 The aim of this project is to automate agriculture using IoT. In this project we used different type of sensors for collecting data from Agriculture.
