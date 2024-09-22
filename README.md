@@ -1,17 +1,18 @@
  <h1 align="center">👉Arjun Kadam👈</h1>
 
-🧠2+ Years of Experience in programming and software development🧑‍💻. I am Final Year student of BE Computer Engineering🎓.You can see my details on [Linkedin profile](https://linkedin.com/in/visual-arjun) 🤩
+🧠2+ Years of Experience in programming and software development🧑‍💻. Recent Graduate in Bachelor in Computer Engineering🎓.You can see my details on [Linkedin profile](https://linkedin.com/in/visual-arjun) 🤩
 
-Also, I have experience in cloud technologies like AWS and Azure☁️. I am very passionate about DevOps and Open Source💼. <br>
+I have experience in developing projects in Spring Boot. Little experience with Azure Cloud (Storage and App Service)  <br>
 
 I always welcoming new challenges💪, this keeps me motivate and energetic🔥. Also, quickly adopting new things📖.
 <hr></hr>
 
 # Personal Projects💫
-<h2>NerdCoin</h2>
-Simple Blockchain implementation in Java. Allows users to create wallets. Provides wallets with public and private keys using Elliptic-Curve cryptography. Secures the transfer of funds, by using a digital signature algorithm to prove ownership.
+<h2>MegaFiles</h2>
+MegaFile is application in which users can share their Files with anyone. It is simple clone of Google Drive. In which I have develped skills of Spring Boot, Spring Security, JWT, etc. Also developed frontend using Angular + PrimeNG.
 
-[arjun-kadam/NerdCoin](https://github.com/arjun-kadam/NerdCoin)
+[arjun-kadam/Mega-Files](https://github.com/arjun-kadam/Mega-Files) <br>
+[Live Link](https://megafiles-pro.netlify.app/)
 
 <h2>DocsGPT</h2>
 BE Final Year Project. User can upload PDF and interact with PDF like chatbot. Project is developed using Next.js. Used OpenAI for LLM. 
