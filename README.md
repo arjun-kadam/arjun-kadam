@@ -1,18 +1,14 @@
- <h1 align="center">👉Arjun Kadam👈</h1>
 
-🧠2+ Years of Experience in programming and software development🧑‍💻. Recent Graduate in Bachelor in Computer Engineering🎓.You can see my details on [Linkedin profile](https://linkedin.com/in/visual-arjun) 🤩
+Backend Developer with over 2 years of experience in Java-based application development. Strong expertise in application performance optimization, debugging, and building scalable backend systems. Hands-on experience in developing low-latency applications, including fleet management systems and GPS-based solutions.
 
-I have experience in developing projects in Spring Boot. Little experience with Azure Cloud (Storage and App Service)  <br>
-
-I always welcoming new challenges💪, this keeps me motivate and energetic🔥. Also, quickly adopting new things📖.
+Currently working on web API development, external API integrations, and camera services for Video Telematics solutions. Successfully improved MySQL query performance by up to 27% by applying efficient query optimization techniques and clean, performance-focused coding practices.
 <hr></hr>
 
-# Personal Projects💫
-<h2>MegaFiles</h2>
-MegaFile is application in which users can share their Files with anyone. It is simple clone of Google Drive. In which I have develped skills of Spring Boot, Spring Security, JWT, etc. Also developed frontend using Angular + PrimeNG.
+# Personal Projects
+<h2>LunarFlow</h2>
+LunarFlow is multifuctional ETL builder built in Java and powered by Spring Boot. In LunarFlow, users can design their custom ETL pipeline e.g, MySQL to BigQuery, users can apply data transaformation rules, can run in batches.
 
-[arjun-kadam/Mega-Files](https://github.com/arjun-kadam/Mega-Files) <br>
-[Live Link](https://megafiles-pro.netlify.app/)
+[arjun-kadam/LunarFlow](https://github.com/arjun-kadam/LunarFlow) <br>
 
 <h2>DocsGPT</h2>
 BE Final Year Project. User can upload PDF and interact with PDF like chatbot. Project is developed using Next.js. Used OpenAI for LLM. 
@@ -40,13 +36,4 @@ The aim of this project is to automate agriculture using IoT. In this project we
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
-
-<h2 align="center">My GitHub Stats 📶</h2>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arjun-kadam&theme=dracula&show_icons=true" alt="arjun kadam" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=arjun-kadam&theme=dracula&hide_border=false" alt ="Arjun Kadam" width="400" />
 </p>
-
-<h3 align="center">Thank You For Visiting My Profile :pray:</h3>
-<!-- <p align="center"> <img src="https://github.com/arjun-kadam/arjun-kadam/blob/output/github-contribution-grid-snake.svg" width="1080" /> </p> -->
